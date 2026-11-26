@@ -4,21 +4,21 @@ Akhil Kakkireni<br>
 
 ### Reflection<br>
 
-#### What I Learned Across All Modules<br>
+#### What I Learned Across All Modules
 
-During this course, I have worked on practical machine learning projects which have greatly assisted my understanding of AI and business analytics. I gained experience in data preparation, implementing machine learning models, assessing model performance, and interpreting the outcomes to guide business decisions. Classifications and support vector machines, decision trees, dimensionality reduction, artificial neural networks, and natural language processing have broadened my hands-on experience with AI methods and their deployment. <br>
+The experience of completing the modules in this course has given me a very hands-on experience of how machine learning is taken from a theoretical level to tackle real-world problems. I learned early on that when I looked at the core principles, and the building classification models, the algorithms categorize and separate data. As I moved on to Support Vector Machines, Decision Trees, and Dimensionality Reduction I found myself understanding how sensitive the performance of the model was to the shape of the data and number of variables. When I started learning Artificial Neural Networks and Natural Language Processing, that's when it all started to make sense and realize that modern architectures can interpret complex, unstructured data such as text, not just neatly organized rows and columns. <br>
 
-#### Skills I Developed<br>
+#### Skills I Developed
 
-I learned advanced techniques in data preprocessing, feature engineering, model selection, hyperparameter tuning, model evaluation, dimensionality reduction, and NLP. I also had some experience building, training, evaluating, and visualizing machine learning models using Python, Jupyter Notebook, pandas, NumPy, scikit-learn, TensorFlow/Keras, Matplotlib, and NLP libraries. <br>
+The process evolved from just executing code to conscious modeling decisions over these seven assignments. I learned about how to check a messy data set, fix missing or skewed data, and how to properly scale features before training a model. In addition to the models created in Python, I acquired a much acuter understanding of why an algorithm fails to perform well, by analyzing the cross validation, tuning the parameters and by reading an accuracy number plus a confusion matrix or precision recall to assess if a model actually works. <br>
 
-#### How These Projects Prepare Me for Real-World Machine Learning Tasks<br>
+#### How These Projects Prepare Me for Real-World ML Tasks
 
-These projects offered hands-on experience with the full machine learning cycle: data acquisition, data preprocessing, development of machine learning models, model evaluation, and result interpretation. I developed and enhanced my skills in problem-solving by choosing suitable algorithms, evaluating the model performance, and clearly conveying results. This portfolio showcases the technical skills and hands-on experience I gained during this course and highlights my preparedness for future endeavors in the fields of artificial intelligence, machine learning, and data science. <br>
+Business data in the real world is rarely neat and clean, and is not always provided with guidance about which algorithm to apply. These projects helped me understand how to systematically analyze a new dataset and formulate a business problem, define the limitations of the data, experiment with various modelling approaches, and consider issues such as balancing interpretability with predictive accuracy. I have started to develop them completely, and I feel confident in handling real-life analytics problems and also communicate the technical results effectively to non-technical decision-makers. <br>
 
-### AI Statement<br>
+###  My AI Statement
 
-I used Generative AI as a learning and productivity tool while completing these projects. I used AI to gain insight into concepts of machine learning, streamline code structures, detect programming mistakes, enhance documentation, and clarify written explanations. All the AI-generated content I used was carefully checked, tested, and verified before using it in my final submissions. I did the final implementation, validation and interpretation of all results independently. <br>
+For these assignments, I only utilized Generative AI as a troubleshooting tool and study guide, and not as a shortcut. When I encountered new syntax in the library, or required another explanation on mathematical mechanics, such as gradient descent, or just needed to brainstorm a more useful way to format a chart, I turned to the AI tools for suggestions. All of my final lines were written, executed and validated by me, and all of my interpretations of the results are my own. <br>
 
 ### Projects Completed in This Course<br>
 
