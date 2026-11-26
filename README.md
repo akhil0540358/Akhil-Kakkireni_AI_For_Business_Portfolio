@@ -6,7 +6,7 @@ Akhil Kakkireni<br>
 
 #### What I Learned Across All Modules
 
-The experience of completing the modules in this course has given me a very hands-on experience of how machine learning is taken from a theoretical level to tackle real-world problems. I learned early on that when I looked at the core principles, and the building classification models, the algorithms categorize and separate data. As I moved on to Support Vector Machines, Decision Trees, and Dimensionality Reduction I found myself understanding how sensitive the performance of the model was to the shape of the data and number of variables. When I started learning Artificial Neural Networks and Natural Language Processing, that's when it all started to make sense and realize that modern architectures can interpret complex, unstructured data such as text, not just neatly organized rows and columns. <br>
+The experience of completing the modules in this course has given me a very hands-on experience of how machine learning is taken from a theoretical level to tackle real-world problems. I learned early on that when I looked at the core principles, and the building classification models, the algorithms categorize and separate data. As I moved on to Support Vector Machines, Decision Trees, and Dimensionality Reduction I found myself understanding how sensitive the performance of the model was to the shape of the data and number of variables. Artificial Neural Networks and Natural Language Processing brought everything together and demonstrated to me how contemporary systems can produce meaning from inputs other than well-defined rows and columns, such as text. <br>
 
 #### Skills I Developed
 
